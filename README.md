@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Full Stack Java Development**
 
-- 🌱 I’m currently learning **Jull stack Java,Blockchain**
+- 🌱 I’m currently learning **Full stack Java,Blockchain**
 
 - 💬 Ask me about **Java,DSA**
 
